@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#### Contact me
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/httvhutceoscop) [![facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=Facebook&logoColor=white)](https://kysuit.net) [![twitter](https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/httv_hut) [![skype](https://img.shields.io/badge/Skype-0b64a4?style=for-the-badge&logo=Skype&logoColor=white)](https://kysuit.net) [![linkedin](https://img.shields.io/badge/LinkedIn-006097?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vietnt/)
+
 <!--
 **httvhutceoscop/httvhutceoscop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
