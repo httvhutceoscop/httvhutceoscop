@@ -4,13 +4,13 @@ class HelloWorld
     // This method prints a greeting.
     // It takes one argument: the language to use.
     // Default language is English.
-    function sayHello($language = 'English')
+    function sayHello(string $language = 'English')
     {
-        // Put the greeting within P tags:
-        echo '<p>';
-
         // Print a message specific to a language:
         switch ($language) {
+            case 'Vietnamese':
+                echo 'Xin chào thế giới!';
+                break;
             case 'Dutch':
                 echo 'Hallo, wereld!';
                 break;
@@ -32,4 +32,13 @@ class HelloWorld
                 break;
         } // End of switch.
     } // End of sayHello() method.
+
+    function sayName(string $name) {
+        echo 'My name is '.$name;
+    }
 } // End of HelloWorld class.
+
+$greeting = new HelloWorld();
+$greeting->sayHello('Vietnamese');
+echo "\n";
+$greeting->sayName('Viet');
