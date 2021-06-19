@@ -6,10 +6,13 @@ I'm Viet and i'm full stack web / app developer with more then 7 years experienc
 ### TECH STACK
 
 #### Development Languages
-    PHP / HTML5 / JavaScript / CSS3 / Python / GraphQL / ASP.NET / DART / LESS / SASS / GraphQL / TypeScript / Go / C# / Bash Script
+    PHP / HTML5 / JavaScript / CSS3 / Python / GraphQL / ASP.NET / 
+    DART / LESS / SASS / GraphQL / TypeScript / Go / C# / Bash Script
 
 #### Development Skills
-    Django / Laravel / CakePHP / Yii2 / CodeIgniter / FuelPHP / Node.js / Bootstrap / AngularJS / Angular / VueJS / ReactJS / Flutter / eCommerce / SaaS / AWS / CircleCI / Docker / Fabric.js / 
+    Django / Laravel / CakePHP / Yii2 / CodeIgniter / FuelPHP / Node.js / 
+    Bootstrap / AngularJS / Angular / VueJS / ReactJS / Flutter / eCommerce / 
+    SaaS / AWS / CircleCI / Docker / Fabric.js / 
 
 #### CMS
     WordPress / Drupal / Joomla
@@ -21,7 +24,8 @@ I'm Viet and i'm full stack web / app developer with more then 7 years experienc
     Apache / NGINX
 
 #### Others
-    AWS / AJAX / JSON / JSONP / jQuery / RESTfulAPI, Git / SVN / Heroku / Gitlab / Bitbucket / Photoshop / GOOGLE API's / Canvas / SVG
+    AWS / AJAX / JSON / JSONP / jQuery / RESTfulAPI, Git / SVN / Heroku / 
+    Gitlab / Bitbucket / Photoshop / GOOGLE API's / Canvas / SVG
 
 ### MOTTO
 > When your work speaks for itself, don't interrupt. - Henry J. Kaiser
