@@ -1,19 +1,60 @@
-### Hi there 👋
+### Hi! 👋
+![I am full stack web & app developer](./banner.png)
 
-#### Contact me
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/httvhutceoscop) [![facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=Facebook&logoColor=white)](https://kysuit.net) [![twitter](https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/httv_hut) [![skype](https://img.shields.io/badge/Skype-0b64a4?style=for-the-badge&logo=Skype&logoColor=white)](https://kysuit.net) [![linkedin](https://img.shields.io/badge/LinkedIn-006097?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vietnt/)
+I'm Viet and i'm full stack web / app developer with more then 7 years experience. I have been working in various fields, starting from app cross-platform, web front-end and ending with project leader. I have always been hard working and goal's focused with proven results.
 
-<!--
-**httvhutceoscop/httvhutceoscop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### TECH STACK
 
-Here are some ideas to get you started:
+#### Development Languages
+    PHP / HTML5 / JavaScript / CSS3 / Python / GraphQL / ASP.NET / DART / LESS / SASS / GraphQL / TypeScript / Go / C# / Bash Script
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Development Skills
+    Django / Laravel / CakePHP / Yii2 / CodeIgniter / FuelPHP / Node.js / Bootstrap / AngularJS / Angular / VueJS / ReactJS / Flutter / eCommerce / SaaS / AWS / CircleCI / Docker / Fabric.js / 
+
+#### CMS
+    WordPress / Drupal / Joomla
+
+#### Databases
+    PostgreSQL / MySQL / MongoDB / MariaDB / Redis / AWS DynamoDB
+
+#### Web Servers
+    Apache / NGINX
+
+#### Others
+    AWS / AJAX / JSON / JSONP / jQuery / RESTfulAPI, Git / SVN / Heroku / Gitlab / Bitbucket / Photoshop / GOOGLE API's / Canvas / SVG
+
+### MOTTO
+> When your work speaks for itself, don't interrupt. - Henry J. Kaiser
+
+####  
+
+<a href="https://www.facebook.com/RubyPhantom" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
+<a href="https://twitter.com/httv_hut" target="_blank">
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>
+</a>
+<a href="https://www.linkedin.com/in/httvhutceoscop/" target="_blank">
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>
+</a>
+<a href="https://github.com/httvhutceoscop" target="_blank">
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>
+</a>
+<a href="https://codepen.io/httvhutceoscop" target="_blank">
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='30'>
+</a>
+<a href="https://kysuit.net/" target="_blank">
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>
+</a>
+<a href="https://www.upwork.com/freelancers/~01384b3e595986a99d" target="_blank">
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg' alt='website' height='30'>
+</a>
+
+![Profile views](https://gpvc.arturio.dev/httvhutceoscop)  
+
+<a href="https://kysuit.net">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httvhutceoscop&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=30&v=5" alt="VietNT's Stats" />
+</a>
+<a href="https://kysuit.net">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=httvhutceoscop&custom_title=My Github Stats&show_icons=true&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=20.5&v=5&count_private=true" alt="VietNT's Stats" />
+</a>
+  
+- 💬 Ask me anything [here](https://github.com/httvhutceoscop/httvhutceoscop/issues)
