@@ -28,7 +28,7 @@ I'm Viet and i'm full stack web / app developer with more then 7 years experienc
     Gitlab / Bitbucket / Photoshop / GOOGLE API's / Canvas / SVG
 
 ### MOTTO
-> When your work speaks for itself, don't interrupt. - Henry J. Kaiser
+![Quote](https://github-readme-quotes.herokuapp.com/quote)
 
 ####  
 
